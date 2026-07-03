@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Recruiting icon: person bust with blue-lens magnifier (talent search), black-outline family style -->
+  <!-- head -->
+  <circle cx="215" cy="145" r="72" fill="#FFFFFF" stroke="#000000" stroke-width="30"/>
+  <!-- shoulders -->
+  <path d="M 75 430
+           C 75 322 138 268 215 268
+           C 292 268 355 322 355 430
+           Z"
+        fill="#FFFFFF" stroke="#000000" stroke-width="30" stroke-linejoin="round"/>
+  <!-- magnifier lens (blue accent) -->
+  <circle cx="368" cy="330" r="76" fill="#009FE0" stroke="#000000" stroke-width="30"/>
+  <!-- magnifier handle -->
+  <path d="M 422 384 L 476 438" fill="none" stroke="#000000" stroke-width="38" stroke-linecap="round"/>
+</svg>
