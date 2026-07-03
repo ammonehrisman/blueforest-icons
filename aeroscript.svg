@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Dashed curved route sweeping across the canvas -->
+  <path d="M232 720 C 360 420, 664 420, 792 300" fill="none" stroke="#000000" stroke-width="44" stroke-linecap="round" stroke-dasharray="6 88"/>
+  <!-- Left waypoint pin: BLUE fill -->
+  <path d="M232 552 C 292 552, 320 596, 320 636 C 320 690, 232 764, 232 764 C 232 764, 144 690, 144 636 C 144 596, 172 552, 232 552 Z" fill="#009FE0" stroke="#000000" stroke-width="52" stroke-linejoin="round"/>
+  <circle cx="232" cy="636" r="30" fill="#FFFFFF"/>
+  <!-- Right waypoint pin: white fill -->
+  <path d="M792 132 C 852 132, 880 176, 880 216 C 880 270, 792 344, 792 344 C 792 344, 704 270, 704 216 C 704 176, 732 132, 792 132 Z" fill="#FFFFFF" stroke="#000000" stroke-width="52" stroke-linejoin="round"/>
+  <circle cx="792" cy="216" r="30" fill="#000000"/>
+  <!-- Drone chevron on the middle of the path -->
+  <path d="M456 470 L512 546 L568 470" fill="none" stroke="#000000" stroke-width="52" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Diamond cap-top -->
+  <path d="M512 236 L872 396 L512 556 L152 396 Z" fill="#FFFFFF" stroke="#000000" stroke-width="60" stroke-linejoin="round"/>
+  <!-- Cap band / head trapezoid -->
+  <path d="M330 476 L330 612 Q330 700 512 700 Q694 700 694 612 L694 476" fill="none" stroke="#000000" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- BLUE tassel: cord + bead, hanging from center of diamond -->
+  <path d="M512 396 L512 512 Q512 620 720 660 L720 740" fill="none" stroke="#009FE0" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="720" cy="782" r="42" fill="#009FE0" stroke="#000000" stroke-width="28"/>
+</svg>

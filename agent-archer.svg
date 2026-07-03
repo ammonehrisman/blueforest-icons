@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Target rings -->
+  <circle cx="546" cy="478" r="304" fill="#FFFFFF" stroke="#000000" stroke-width="60"/>
+  <circle cx="546" cy="478" r="188" fill="#FFFFFF" stroke="#000000" stroke-width="56"/>
+  <!-- BLUE bullseye center -->
+  <circle cx="546" cy="478" r="74" fill="#009FE0"/>
+  <!-- Arrow shaft striking from lower-left into the bullseye -->
+  <line x1="176" y1="848" x2="546" y2="478" stroke="#000000" stroke-width="56" stroke-linecap="round"/>
+  <!-- Arrowhead at the center -->
+  <path d="M470 486 L546 478 L538 554" fill="none" stroke="#000000" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- V fletching at the tail -->
+  <path d="M176 748 L176 848 L276 848" fill="none" stroke="#000000" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

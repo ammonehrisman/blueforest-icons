@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- U-shaped horseshoe magnet opening upward: white fill, thick black outline -->
+  <path d="M286 250 v300 a226 226 0 0 0 452 0 v-300 h-150 v300 a76 76 0 0 1 -152 0 v-300 z" fill="#FFFFFF" stroke="#000000" stroke-width="60" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- BLUE pole tip bands at the top -->
+  <rect x="286" y="250" width="150" height="86" fill="#009FE0" stroke="#000000" stroke-width="60" stroke-linejoin="round"/>
+  <rect x="588" y="250" width="150" height="86" fill="#009FE0" stroke="#000000" stroke-width="60" stroke-linejoin="round"/>
+  <!-- Small spark/attraction arcs near the poles -->
+  <path d="M214 210 a70 70 0 0 1 0 130" fill="none" stroke="#000000" stroke-width="40" stroke-linecap="round"/>
+  <path d="M810 210 a70 70 0 0 0 0 130" fill="none" stroke="#000000" stroke-width="40" stroke-linecap="round"/>
+</svg>

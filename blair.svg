@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Database cylinder body: white fill so bands read cleanly -->
+  <path d="M232 250 v524 a280 90 0 0 0 560 0 v-524 z" fill="#FFFFFF" stroke="#000000" stroke-width="60" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Interior band lines (ellipses) -->
+  <path d="M232 424 a280 90 0 0 0 560 0" fill="none" stroke="#000000" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 598 a280 90 0 0 0 560 0" fill="none" stroke="#000000" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top disk filled BLUE -->
+  <ellipse cx="512" cy="250" rx="280" ry="90" fill="#009FE0" stroke="#000000" stroke-width="60" stroke-linejoin="round"/>
+</svg>

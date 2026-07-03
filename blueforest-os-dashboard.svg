@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Top-left tile: BLUE -->
+  <rect x="168" y="168" width="300" height="300" rx="56" fill="#009FE0" stroke="#000000" stroke-width="60"/>
+  <!-- Top-right tile -->
+  <rect x="556" y="168" width="300" height="300" rx="56" fill="#FFFFFF" stroke="#000000" stroke-width="60"/>
+  <!-- Bottom-left tile -->
+  <rect x="168" y="556" width="300" height="300" rx="56" fill="#FFFFFF" stroke="#000000" stroke-width="60"/>
+  <!-- Bottom-right tile -->
+  <rect x="556" y="556" width="300" height="300" rx="56" fill="#FFFFFF" stroke="#000000" stroke-width="60"/>
+</svg>

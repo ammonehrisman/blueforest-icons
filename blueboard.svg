@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Board outline -->
+  <rect x="150" y="212" width="724" height="600" rx="70" fill="#FFFFFF" stroke="#000000" stroke-width="62"/>
+  <!-- Two column dividers -->
+  <line x1="392" y1="212" x2="392" y2="812" stroke="#000000" stroke-width="52" stroke-linecap="round"/>
+  <line x1="632" y1="212" x2="632" y2="812" stroke="#000000" stroke-width="52" stroke-linecap="round"/>
+  <!-- Column 1 cards -->
+  <rect x="212" y="300" width="120" height="86" rx="24" fill="#009FE0"/>
+  <rect x="212" y="430" width="120" height="86" rx="24" fill="none" stroke="#000000" stroke-width="40"/>
+  <!-- Column 2 card -->
+  <rect x="452" y="300" width="120" height="86" rx="24" fill="none" stroke="#000000" stroke-width="40"/>
+  <!-- Column 3 cards -->
+  <rect x="692" y="300" width="120" height="86" rx="24" fill="none" stroke="#000000" stroke-width="40"/>
+  <rect x="692" y="430" width="120" height="86" rx="24" fill="#000000"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Antenna -->
+  <line x1="512" y1="252" x2="512" y2="168" stroke="#000000" stroke-width="52" stroke-linecap="round"/>
+  <circle cx="512" cy="150" r="42" fill="#000000"/>
+  <!-- Robot head: rounded square, white fill -->
+  <rect x="200" y="252" width="624" height="560" rx="120" fill="#FFFFFF" stroke="#000000" stroke-width="60" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="392" cy="452" r="52" fill="#000000"/>
+  <circle cx="632" cy="452" r="52" fill="#000000"/>
+  <!-- BLUE visor / mouth bar -->
+  <rect x="316" y="616" width="392" height="96" rx="48" fill="#009FE0" stroke="#000000" stroke-width="56" stroke-linejoin="round"/>
+</svg>
